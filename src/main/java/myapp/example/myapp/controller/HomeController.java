@@ -12,7 +12,7 @@ public class HomeController {
 
         model.addAttribute(
                 "mensagem",
-                "Versão 2 - Alteração realizada");
+                "Versão 3 - Integração Contínua funcionando");
 
         return "home";
     }
