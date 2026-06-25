@@ -12,7 +12,7 @@ public class HomeController {
 
         model.addAttribute(
                 "mensagem",
-                "Versão 1 - Aplicação publicada com Jenkins");
+                "Versão 2 - Alteração realizada");
 
         return "home";
     }
