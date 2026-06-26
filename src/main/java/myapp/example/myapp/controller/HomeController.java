@@ -12,7 +12,7 @@ public class HomeController {
 
         model.addAttribute(
                 "mensagem",
-                "Versão 2 - Primeira alteração da etapa 2");
+                "Versão 3 - Segunda alteração da etapa 2");
 
         return "home";
     }
