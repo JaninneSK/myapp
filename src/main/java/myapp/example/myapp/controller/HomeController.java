@@ -12,7 +12,7 @@ public class HomeController {
 
         model.addAttribute(
                 "mensagem",
-                "Versão 3 - Integração Contínua funcionando");
+                "Versão 1 - Integração Contínua funcionando, primeira versão com Docker");
 
         return "home";
     }
